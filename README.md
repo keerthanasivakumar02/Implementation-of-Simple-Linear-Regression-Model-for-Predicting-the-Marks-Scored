@@ -35,6 +35,8 @@ print(dataset.head())
 print(dataset.tail())
 ```
 ##OUTPUT:
+
+
 ![Screenshot 2024-09-02 213048](https://github.com/user-attachments/assets/a26b3e28-17c1-435d-9e38-2afb3fd332f1)
 ```
 dataset.info()
@@ -51,6 +53,8 @@ print(Y)
 
 ##Output:
 
+
+
 ![image](https://github.com/user-attachments/assets/e796acb4-8d26-4e47-a638-c371409cf5c4)
 
 ```
@@ -60,6 +64,9 @@ print(X_train.shape)
 print(X_test.shape)
 ```
 ##Output:
+
+
+
 ![image](https://github.com/user-attachments/assets/1cd7a5b0-1a38-44c0-a2ec-f3ea354a414d)
 
 ```
@@ -69,6 +76,9 @@ reg.fit(X_train,Y_train)
 
 ```
 ##Output:
+
+
+
 ![image](https://github.com/user-attachments/assets/6a01e1d7-e0ae-4f8f-ae26-349db63da226)
 
 ```
@@ -90,6 +100,7 @@ plt.show()
 ```
 ##Output:
 
+
 ![image](https://github.com/user-attachments/assets/aa1fb087-961d-48d8-ad37-3322ceb99716)
 
 ```
@@ -101,6 +112,8 @@ plt.ylabel("Scores")
 plt.show()
 ```
 ##Output:
+
+
 ![image](https://github.com/user-attachments/assets/832cdfa4-3900-4f7e-b36b-76d2c8c3ea8b)
 
 
